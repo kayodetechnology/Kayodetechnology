@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ayo! <br/><a href="https://github.com/kayodetechnology/SOC-project/tree/main">Cybersecurity Professional</a>.</h1>
+<h1>Hi, I'm Ayo! <br/><a href="https://github.com/kayodetechnology">Cybersecurity Professional</a>.</h1>
 
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
 
