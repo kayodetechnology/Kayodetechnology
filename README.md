@@ -4,6 +4,9 @@
 
 - <b>AZURE / CLOUD PROJECTS</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/kayodetechnology/SOC-project/tree/main)
+ 
+-  <b> Automatic Alert on Microsoft Sentinel (SIEM)</b>
+   - [Understanding and Triggering Sentinel Alerts](https://github.com/kayodetechnology/SOC-project/tree/main)
 
 
 <h2> 🤳 Connect with me:</h2>
