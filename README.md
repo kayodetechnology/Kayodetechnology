@@ -7,6 +7,9 @@
  
 -  <b> Microsoft Sentinel / Logs Analytics</b>
    - [Implementing Active Rules within Microsoft Sentinel Analytics](https://github.com/kayodetechnology/Alert/tree/main)
+ 
+-  <b> Vulnerability Management with Nessus Essentials </b>
+   - [Metasploitable 2 Exploitability and Solutions](https://github.com/kayodetechnology/Alert/tree/main)
 
 
 <h2> 🤳 Connect with me:</h2>
