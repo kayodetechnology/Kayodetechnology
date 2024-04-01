@@ -22,7 +22,7 @@
 [twitter]: #
 [youtube]: #
 [instagram]: #
-[linkedin]: www.linkedin.com/in/ayodele-kayode-s
+[linkedin]: "www.linkedin.com/in/ayodele-kayode-s"
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
