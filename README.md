@@ -12,7 +12,7 @@
    - [Metasploitable 2 Exploitability & Solutions](https://github.com/kayodetechnology/vulnerability/blob/main/)
  
 -  <b> Ransomware - A Comprehensive Overview </b>
-   - [Metasploitable 2 Exploitability & Solutions](https://github.com/kayodetechnology/vulnerability/blob/main/)
+   - [Ransomware - A Comprehensive Overview](#)
 
 
 <h2> 🤳 Connect with me:</h2>
