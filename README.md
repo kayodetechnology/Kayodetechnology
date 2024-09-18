@@ -25,7 +25,7 @@
 [twitter]: #
 [youtube]: #
 [instagram]: #
-[linkedin]: "[https://www.linkedin.com/in/ayodele-kayode-s]"
+[linkedin]: "https://www.linkedin.com/in/ayodele-kayode-s"
 <!--
 **Kayode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
