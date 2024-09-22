@@ -13,6 +13,9 @@
  
 -  <b> Ransomware - A Comprehensive Overview </b>
    - [Ransomware - A Comprehensive Overview](https://github.com/kayodetechnology/Ransomware/blob/main)
+ 
+-  <b> Incident Response - Microsoft Sentinel Security (SIEM) </b>
+   - [Brute Force Success – Windows Incident](https://github.com/kayodetechnology/Ransomware/blob/main)
 
 
 <h2> 🤳 Connect with me:</h2>
