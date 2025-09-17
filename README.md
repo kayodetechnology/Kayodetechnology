@@ -16,6 +16,9 @@
  
 -  <b> Incident Response - Microsoft Sentinel Security (SIEM) </b>
    - [Brute Force Success – Windows Incident](https://github.com/kayodetechnology/BruteForce/blob/main/README.md)
+     
+-  <b> Threat hunting versus threat intelligence </b>
+   - [Threat intelligence](https://github.com/kayodetechnology/cyberthreathunting/blob/main/README.md)
 
 
 <h2> 🤳 Connect with me:</h2>
